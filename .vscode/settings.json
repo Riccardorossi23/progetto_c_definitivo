@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gamelib.h": "c",
+        "ctime": "c",
+        "__node_handle": "c"
+    }
+}
